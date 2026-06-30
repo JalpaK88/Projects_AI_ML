@@ -3,8 +3,6 @@ A collection of Deep Learning, Image Processing, and Pattern Recognition Project
 
 ## 📁 Repository Structure
 
-## 📁 Repository Structure
-
 ```
 Projects_AI_ML/
 ├── Projects_DeepLearning/
