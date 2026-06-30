@@ -8,16 +8,16 @@ Projects_AI_ML/
 │   └── Driver's Drowsiness Detection using Deep Learning
 │
 └── Project_ImagePro_PatternReco/
-    ├── Image Processing Projects/
+    ├── Project_ImageProcessing.zip/
     │   ├── Assignment_1_IP.zip
     │   ├── Assignment_2_IP.zip
     │   ├── Assignment_3_IP.zip
     │   └── Assignment_4_IP.zip
     │
-    └── Pattern Recognition Projects/
+    └── Project_PatternRecognition.zip/
         ├── Assignment_1_All.zip
         ├── Assignment_2_All.zip
-        ├── Submission_Assignment_3_All.zip
+        ├── Assignment_3_All.zip
         └── Assignment_4_All.zip
 
 
@@ -64,7 +64,7 @@ Covers spatial-domain filtering techniques and correlation-based detection:
 - **Noise Reduction** — comparing averaging vs. median filtering for removing noise from images (salt-and-pepper style noise)
 - **Sharpening & Gradients** — Laplacian-based image sharpening and computing partial-derivative gradients for edge enhancement
 
-📁 `Assignment_2_IP.zip` | Includes a written report (`reportAssignment2.pdf`)
+📁 `Assignment_2_IP.zip` | Includes a written report (`Assignment_2_report.pdf`)
 
 ---
 
@@ -75,7 +75,7 @@ Explores the Discrete Fourier Transform and frequency-domain representation of s
 - **2D DFT of Images** — computing the 2D DFT of synthetic images, with magnitude spectrum centering and log transformation for visualization
 - **Phase vs. Magnitude Analysis** — reconstructing images using only magnitude information (zero phase) and only phase information (unit magnitude) to demonstrate the relative importance of phase in image content
 
-📁 `Assignment3_IP.zip` | Includes a written report (`reportAssignment3.pdf`)
+📁 `Assignment3_IP.zip` | Includes a written report (`Assignment_3_report.pdf`)
 
 ---
 
@@ -86,7 +86,7 @@ Builds on DFT fundamentals to perform filtering directly in the frequency domain
 - **Frequency Domain Padding** — zero-padding images for FFT-based convolution
 - **Homomorphic Filtering** — illuminating/reflectance separation using log transformation + high-pass filtering in the frequency domain, with experiments across different γ_L (low-frequency gain) and γ_H (high-frequency gain) parameters
 
-📁 `Assignment_4.zip` | Includes a written report (`reportAssignment4.pdf`)
+📁 `Assignment_4.zip` | Includes a written report (`Assignment_4_report.pdf`)
 
 ---
 
@@ -96,7 +96,7 @@ Builds on DFT fundamentals to perform filtering directly in the frequency domain
 - **Libraries:** NumPy, PIL (Pillow), Matplotlib
 - **Approach:** Most operations (DFT, filtering, histogram equalization) are implemented manually rather than using high-level library calls, to demonstrate understanding of the underlying algorithms
 
-📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco
+📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco/Projects_ImageProcessing.zip
 
 # 2.2. Projects_PatternRecognition
 
@@ -156,7 +156,7 @@ Compares two classifiers for gender classification using PCA-reduced face featur
 - **Libraries:** NumPy, Matplotlib, PIL, LIBSVM (`svm_train`/`svm_predict`)
 - **Core Techniques:** Bayesian decision theory, Maximum Likelihood Estimation, PCA/Eigenfaces, SVM, Mahalanobis distance, ROC/EER analysis
 
-📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco
+📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco/Project_PatternRecognition.zip
 
 ## 🛠️ Overall Tech Stack from AI/ML Projects
 
