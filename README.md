@@ -96,6 +96,8 @@ Builds on DFT fundamentals to perform filtering directly in the frequency domain
 - **Libraries:** NumPy, PIL (Pillow), Matplotlib
 - **Approach:** Most operations (DFT, filtering, histogram equalization) are implemented manually rather than using high-level library calls, to demonstrate understanding of the underlying algorithms
 
+📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco
+
 # 2.2. Projects_PatternRecognition
 
 
@@ -154,6 +156,7 @@ Compares two classifiers for gender classification using PCA-reduced face featur
 - **Libraries:** NumPy, Matplotlib, PIL, LIBSVM (`svm_train`/`svm_predict`)
 - **Core Techniques:** Bayesian decision theory, Maximum Likelihood Estimation, PCA/Eigenfaces, SVM, Mahalanobis distance, ROC/EER analysis
 
+📄 View project details: Projects_AI_ML/Project_ImagePro_PatternReco
 
 ## 🛠️ Overall Tech Stack from AI/ML Projects
 
