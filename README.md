@@ -3,20 +3,26 @@ A collection of Deep Learning, Image Processing, and Pattern Recognition Project
 
 ## 📁 Repository Structure
 
+## 📁 Repository Structure
+
+```
 Projects_AI_ML/
 ├── Projects_DeepLearning/
 │   └── Driver's Drowsiness Detection using Deep Learning
-├──Project_ImagePro_PatternReco/
-│   └── Image Processing Projects
-│   └── └── Assignment_1_IP.zip
-│   └── └── Assignment_2_IP.zip
-│   └── └── Assignment_3_IP.zip
-│   └── └── Assignment_4_IP.zip
-│   └── Pattern Recognition Projects
-│   └── └── Assignment_1_All.zip
-│   └──└──  Assignment_2_All.zip
-│   └──└──  Assignment_3_All.zip
-│   └── └── Assignment_4_All.zip
+│
+└── Project_ImagePro_PatternReco/
+    ├── Image_Processing_Projects/
+    │   ├── Assignment_1_IP.zip
+    │   ├── Assignment_2_IP.zip
+    │   ├── Assignment_3_IP.zip
+    │   └── Assignment_4_IP.zip
+    │
+    └── Pattern_Recognition_Projects/
+        ├── Assignment_1_All.zip
+        ├── Assignment_2_All.zip
+        ├── Assignment_3_All.zip
+        └── Assignment_4_All.zip
+```
 
 
 
