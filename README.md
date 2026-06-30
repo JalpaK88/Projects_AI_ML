@@ -34,7 +34,7 @@ Built a drowsiness detection system using the **MRL Eye Dataset**, comparing **I
 - `DDD_vgg16_3_5_60_40.ipynb` / `DDD_vgg16_3_5_70_30.ipynb` — VGG16 model, 60/40 and 70/30 splits
 - `Project_Deep_learning.pdf` — Full Research Paper as per IEEE standard format with methodology and results.
 
-📄 [View project details](Projects_AI_ML/Projects_DeepLearning)
+📄 View project details: Projects_AI_ML/Projects_DeepLearning
 
 ## 2.🖼️ Project_ImagePro_PatternReco — Image Processing & Pattern Recognition
 
