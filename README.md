@@ -2,20 +2,24 @@
 A collection of Deep Learning, Image Processing, and Pattern Recognition Projects.
 
 ## 📁 Repository Structure
+
 Projects_AI_ML/
 ├── Projects_DeepLearning/
 │   └── Driver's Drowsiness Detection using Deep Learning
-├──Project_ImagePro_PatternReco/
-│   └── Image Processing Projects
-│   └── └── Assignment_1_IP.zip
-│   └── └── Assignment_2_IP.zip
-│   └── └── Assignment_3_IP.zip
-│   └── └── Assignment_4_IP.zip
-│   └── Pattern Recognition Projects
-│   └── └── Assignment_1_All.zip
-│   └──└──  Assignment_2_All.zip
-│   └──└──  Submission_Assignment_3_All.zip
-│   └── └── Assignment_4_All.zip
+│
+└── Project_ImagePro_PatternReco/
+    ├── Image Processing Projects/
+    │   ├── Assignment_1_IP.zip
+    │   ├── Assignment_2_IP.zip
+    │   ├── Assignment_3_IP.zip
+    │   └── Assignment_4_IP.zip
+    │
+    └── Pattern Recognition Projects/
+        ├── Assignment_1_All.zip
+        ├── Assignment_2_All.zip
+        ├── Submission_Assignment_3_All.zip
+        └── Assignment_4_All.zip
+
 
 ## 1.🚗 Projects_DeepLearning — Driver's Drowsiness Detection
 
@@ -86,7 +90,7 @@ Builds on DFT fundamentals to perform filtering directly in the frequency domain
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Key Learning:
 
 - **Language:** Python
 - **Libraries:** NumPy, PIL (Pillow), Matplotlib
@@ -144,7 +148,7 @@ Compares two classifiers for gender classification using PCA-reduced face featur
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Key Learning:
 
 - **Language:** Python
 - **Libraries:** NumPy, Matplotlib, PIL, LIBSVM (`svm_train`/`svm_predict`)
