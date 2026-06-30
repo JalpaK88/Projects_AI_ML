@@ -11,13 +11,13 @@ Projects_AI_ML/
 │   └── Driver's Drowsiness Detection using Deep Learning
 │
 └── Project_ImagePro_PatternReco/
-    ├── Image_Processing_Projects/
+    ├── Projects_Image_Processing.zip/
     │   ├── Assignment_1_IP.zip
     │   ├── Assignment_2_IP.zip
     │   ├── Assignment_3_IP.zip
     │   └── Assignment_4_IP.zip
     │
-    └── Pattern_Recognition_Projects/
+    └── Projects_Pattern_Recognition.zip/
         ├── Assignment_1_All.zip
         ├── Assignment_2_All.zip
         ├── Assignment_3_All.zip
